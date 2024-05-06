@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Mook</h1>
 <h3 align="center">The Senior Software Engineer</h3>
-<br/>
+<h3 align="center">
 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Apinya (Mook)](https://linkedin.com/in/apinya-leangaramkul)
 
-<br/>
+<h3/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mookfan&title=MultiLanguage,Stars,Repositories,Commit&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
